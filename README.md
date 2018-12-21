@@ -1,6 +1,6 @@
-# Proiect-matrice
+# TapTap
 
-Tap-Tap este un joc ce presupune prinderea notelor muzicale.
+TapTap este un joc ce presupune prinderea notelor muzicale.
 La pornirea jocului, ecranul LCD va afisa cateva optiuni, Play, High Score si Options. Cu ajutorul a 4 butoane putem naviga prin meniu.
 Din Options putem seta dificultatea care poate fi Easy, Medium sau High, putem seta luminozitatea matricei si contrastul ecranului LCD.
 HighScore va salva automat in EEPROM cel mai mare scor pozitiv.
