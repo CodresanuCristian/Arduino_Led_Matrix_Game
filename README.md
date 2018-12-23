@@ -19,3 +19,5 @@ Regulile sunt urmatoarele:
     - Daca avem nota dar nu apasam butonul la timp, nota se considera pierduta. Un led rosu corespunzator liniei ne va semnala acest lucru       si pierdem 15 puncte.
     
 In functie de dificultatea aleasa, muzica generata de note va fi mai lenta sau mai rapida iar notele afisate pe matrice vor cadea mai lent sau mai rapid.
+
+Link: https://youtu.be/ylo7BzJz6hE
