@@ -1,3 +1,7 @@
+![YIAC0768](https://user-images.githubusercontent.com/45856645/113737284-91fff200-9706-11eb-9d06-084402961773.JPG)
+![YIAC0788](https://user-images.githubusercontent.com/45856645/113737295-93c9b580-9706-11eb-8f9a-869be2d7e4f1.JPG)
+![YIAC0789](https://user-images.githubusercontent.com/45856645/113737299-94624c00-9706-11eb-8bd2-0022e2730409.JPG)
+![YIAC0796](https://user-images.githubusercontent.com/45856645/113737304-94fae280-9706-11eb-9f47-b7c12d86f159.JPG)
 # TapTap
 
 TapTap este un joc ce presupune prinderea notelor muzicale.
